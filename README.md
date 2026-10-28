@@ -2,6 +2,8 @@
 
 **Shared Mind is a multiplayer conversation experience that helps people learn how they understand one another.**
 
+**Portal for Play**: https://the-fool-web.vercel.app/
+
 Players respond to short, everyday decision scenarios. Each scenario belongs
 to a Tarot card used as a narrative conversation domain, not as a diagnosis or
 a personality test. After discussing their choices, players predict how other
